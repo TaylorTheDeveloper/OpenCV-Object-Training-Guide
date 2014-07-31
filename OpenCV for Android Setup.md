@@ -23,7 +23,7 @@ NDK
 
 Android OpenCV ( http://docs.opencv.org/java/ )
 
-* Download
+* Download:
 	* http://sourceforge.net/projects/opencvlibrary/files/opencv-android/2.4.9/OpenCV-2.4.9-android-sdk.zip/download 
 * Video.java issue:
 	* http://answers.opencv.org/question/8266/opencv-library-244-on-eclipse-gives-error/ 
