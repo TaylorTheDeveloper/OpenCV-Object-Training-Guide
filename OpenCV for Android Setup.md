@@ -1,5 +1,5 @@
 # Eclipse, CDT, ADT, NDK, and Android OpenCV Installation for Mobile Dev
-=====================
+
 
 Install Eclipse with ADT
 

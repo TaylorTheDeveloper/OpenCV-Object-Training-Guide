@@ -1,5 +1,5 @@
 # Installing OpenCV
-=====================
+
 
 Currently, executing this command is the quickest and easiest way to get opencv, as well as opencv python.
  
