@@ -7,7 +7,9 @@ http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html
 Make Sure you remember to modify the parameters, this file is just for easy access to for rather lengthy comands.
 
 Make Sure you keep notes on the report file.
+
 ```
+
 From the root of your training directory:
 
 find ./positive_images -iname "*.jpg" > positives.txt
